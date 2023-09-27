@@ -9,3 +9,7 @@ Docker (`docker-compose up -d`), MySQL Workbench
 
 
 @OneToMany: COURSE -> Registration <br>
+
+Lazy - DB query when property is called <br>
+Eager - DB query when object is created <br>
+FetchType.LAZY is default
