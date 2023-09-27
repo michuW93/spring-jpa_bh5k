@@ -6,3 +6,6 @@ Plurarsight tutorial: https://app.pluralsight.com/library/courses/spring-jpa-hib
 Docker (`docker-compose up -d`), MySQL Workbench 
 
 @Transactional starts at @Service layer 
+
+
+@OneToMany: COURSE -> Registration <br>
