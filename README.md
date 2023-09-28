@@ -13,4 +13,4 @@ Docker (`docker-compose up -d`), MySQL Workbench
 Lazy - DB query when property is called <br>
 Eager - DB query when object is created <br>
 FetchType.LAZY is default <br>
-n+1 problem can be also solved by Projection
+n+1 problem can be also solved by Projection (RegistrationRepositoryImpl)
